@@ -30,7 +30,7 @@ body {
 
     // overflow: hidden;
     // background-color: $Violet;
-    background:url('/assets/images/bg-desktop.svg') $Violet  ;
+    background:url('../assets/images/bg-desktop.svg') $Violet  ;
     background-position: 14px -72px;
     background-repeat: no-repeat;
     @media (max-width:1140px) {
@@ -38,7 +38,7 @@ body {
         
     }
     @media (max-width:768px) {
-    background:url('/assets/images/bg-mobile.svg') $Violet  ;
+    background:url('../assets/images/bg-mobile.svg') $Violet  ;
     background-position: top;
     background-repeat: no-repeat;   
     }
